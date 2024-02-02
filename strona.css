@@ -1,0 +1,27 @@
+*{
+    background-color: antiquewhite;
+}
+
+#góra{
+    text-align: right;
+    color: aqua;
+    float: left;
+    
+}
+
+#napis{
+    color: aqua;
+    text-align: center;
+    font-size: 80px;
+    
+}
+#lewo{
+    
+    width: 1000px;
+}
+
+#srodek{
+    float: left;
+    
+
+}
